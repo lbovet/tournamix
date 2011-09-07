@@ -4,6 +4,6 @@ round. Thus at the end, all teams have different number of points.
 
 The code can be easily modified to model usual types of tournaments (trees) but not groups (pools).
 
-<img src="4-teams.svg"/>
-<img src="6-teams.svg"/>
-<img src="8-teams.svg"/>
+<img src="https://github.com/lbovet/tournamix/raw/master/4-teams.svg"/>
+<img src="https://github.com/lbovet/tournamix/raw/master/4-teams.svg"/>
+<img src="https://github.com/lbovet/tournamix/raw/master/4-teams.svg"/>
