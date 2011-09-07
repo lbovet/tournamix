@@ -3,3 +3,7 @@ In a binary tournament, all n teams play n/2 matches. The winner wins 2^round po
 round. Thus at the end, all teams have different number of points.
 
 The code can be easily modified to model usual types of tournaments (trees) but not groups (pools).
+
+<img src="https://github.com/lbovet/tournamix/raw/master/4-teams.svg"/>
+<img src="https://github.com/lbovet/tournamix/raw/master/4-teams.svg"/>
+<img src="https://github.com/lbovet/tournamix/raw/master/4-teams.svg"/>
